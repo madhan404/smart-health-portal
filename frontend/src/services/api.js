@@ -1,11 +1,3 @@
-// import axios from 'axios'
-// import toast from 'react-hot-toast'
-
-// const api = axios.create({
-//   baseURL: '/api',
-//   timeout: 10000,
-// })
-
 import axios from 'axios'
 import toast from 'react-hot-toast'
 
